@@ -18,6 +18,32 @@
         "premium": true
     },
     {
+        "name": "John Pangolin",
+        "headline": "JavaScript y al diablo con el resto",
+        "status": "💃",
+        "flag": "🇯🇲",
+        "main_skills": "Frontend",
+        "skills": [
+            "php",
+            "Python",
+            "Elasticsearch",
+            "SQLite",
+            "php",
+            "Python",
+            "Elasticsearch",
+            "SQLite",
+            "php",
+            "Python",
+            "Elasticsearch",
+            "SQLite",            
+            "Management"
+        ],
+        "website": "https://johnpangolin.com",
+        "twitter": "https://twitter.com/johnpangolin",
+        "github": "https://github.com/johnpng",
+        "premium": true
+    },
+    {
         "name": "John Pangolin Alpha",
         "headline": "JavaScript y al diablo con el resto",
         "status": "💃",
@@ -115,24 +141,6 @@
         "main_skills": "Frontend",
         "skills": [
             "VueJS",
-            "Python",
-            "Elasticsearch",
-            "SQLite",
-            "Management"
-        ],
-        "website": "https://johnpangolin.com",
-        "twitter": "https://twitter.com/johnpangolin",
-        "github": "https://github.com/johnpng",
-        "premium": true
-    },
-    {
-        "name": "John Pangolin Action",
-        "headline": "JavaScript y al diablo con el resto",
-        "status": "💃",
-        "flag": "🇯🇲",
-        "main_skills": "Frontend",
-        "skills": [
-            "php",
             "Python",
             "Elasticsearch",
             "SQLite",
