@@ -2,6 +2,7 @@ name: Deploy Github Pages
 
 on:
   pull_request:
+    types: [closed]
     branches:
       - master
 
