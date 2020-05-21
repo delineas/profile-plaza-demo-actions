@@ -195,6 +195,6 @@
         "website": "https://johnpangolin.com",
         "twitter": "https://twitter.com/johnpangolin",
         "github": "https://github.com/johnpng",
-        "premium": "hola"
+        "premium": false
     }
 ]
