@@ -74,7 +74,7 @@
     {
         "name": "John Pangolin AAA",
         "headline": "JavaScript y al diablo con el resto",
-        "status": "s",
+        "status": "💪🏼",
         "flag": "🇯🇲",
         "main_skill": "Devops",
         "skills": [
@@ -141,6 +141,24 @@
         "website": "https://johnpangolin.com",
         "twitter": "",
         "github": "https://github.com/johnpng"
+    },
+    {
+        "name": "John Pangolin",
+        "headline": "JavaScript y al diablo con el resto",
+        "status": "💃",
+        "flag": "🇯🇲",
+        "main_skill": "Frontend",
+        "skills": [
+            "VueJS",
+            "Python",
+            "Elasticsearch",
+            "SQLite",
+            "Management"
+        ],
+        "website": "https://johnpangolin.com",
+        "twitter": "https://twitter.com/johnpangolin",
+        "github": "https://github.com/johnpng",
+        "premium": true
     },
     {
         "name": "John Pangolin",
